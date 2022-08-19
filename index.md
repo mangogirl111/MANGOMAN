@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+## "'><img src=x onerror=prompt(document.domain)>
 
-You can use the [editor on GitHub](https://github.com/mangogirl111/MANGOMAN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+TRYING VARIOUS HACKS
+
+MANGO
+
+
+BUGCROWD GO HERE FOR LOGIN TO SAFETYPAY AMAZING OFFERS AND CASHBACKS.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,9 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+"'><img src=x onerror=prompt(document.domain)>
 
 - Bulleted
 - List
